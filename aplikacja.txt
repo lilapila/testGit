@@ -8,3 +8,8 @@ public void logowanieMicrosoft ()  {
      System.out.println("Podaj nazwę użytkownika Microsoft");
      System.out.println("Podaj poprawne hasełko");
      System.out.println("Kliknij w przycisk zaloguj");
+
+public void przypomnienieHasła ()  {
+     System.out.println("Przypomnij hasło");
+     
+
