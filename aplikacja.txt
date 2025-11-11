@@ -2,3 +2,6 @@ public void logowanie ()  {
      System.out.println("Podaj nazwę użytkownika");
      System.out.println("Podaj poprawne hasełko");
      System.out.println("Kliknij w przycisk zaloguj");
+
+
+bzdury
