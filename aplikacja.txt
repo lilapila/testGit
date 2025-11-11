@@ -4,4 +4,6 @@ public void logowanie ()  {
      System.out.println("Kliknij w przycisk zaloguj");
 
 
-bzdury
+public void przypomnienieHasła ()  {
+     System.out.println("Przypomnij hasło");
+     
