@@ -1,1 +1,6 @@
 ignoreme
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/testGit.iml
+/.idea/vcs.xml
